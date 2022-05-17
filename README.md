@@ -5,6 +5,6 @@
   
   <img 
      style="max-width: 100%;width: 600px" 
-     src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&weeks=40&theme=green&format=svg&quality=0.3&dark=false" 
+     src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&weeks=40&theme=native&format=svg&quality=0.3&dark=false" 
   />
 </div>
