@@ -11,6 +11,8 @@
   <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 -->
 
+<img height="50" src="./assets/hiimcatsjuice.svg" />
+
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
 
    <picture>
